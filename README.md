@@ -23,8 +23,8 @@ I am preparing for my **Professional Internship I**, aiming to contribute to pro
 - Scientific software and data pipelines
 
 ## Background
-- B.Sc. in Astronomy, University of Chile
-- Computer Science Engineering student, University of Chile
+- B.Sc. in Astronomy, Universidad de Chile
+- Computer Science Engineering student, Universidad de Chile
 - Former astronomy intern at Observatorio Nacional Cerro Calán
 - Former computer science intern at SHIMIN SpA
 
